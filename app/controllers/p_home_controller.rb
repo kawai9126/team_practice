@@ -1,0 +1,2 @@
+class PHomeController < ApplicationController
+end
